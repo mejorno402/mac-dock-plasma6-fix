@@ -16,6 +16,10 @@ Este es un parche para el widget "Icons-Only Task Manager 2" (o Fancy Tasks) dis
    `kpackagetool6 -t Plasma/Applet -i mac-dock-fix-plasma6.plasmoid`
 3. Reinicia Plasma: `plasmashell --replace & disown`
 
-*Créditos al autor original del widget. Este es un parche comunitario.* https://store.kde.org/p/2352806
+*Créditos al autor original del widget. Este es un parche comunitario.*  *https://store.kde.org/p/2352806*
 
 *mejorno402*
+
+# mac-dock-plasma6-fix
+Este es un parche para el widget "Icons-Only Task Manager 2" (o Fancy Tasks / macOS Dock)
+
